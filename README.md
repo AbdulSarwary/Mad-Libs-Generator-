@@ -6,9 +6,9 @@
  
  
  Example
- **
- Roses are **//User Input: Color**
- 
- //User Input: **Noun ** are blue ****
-  **
- //User Input: Noun Loves You 
+
+Roses are **//User Input**
+
+**//User Input** are Blue 
+
+**//User Input **Loves you 
